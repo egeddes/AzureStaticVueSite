@@ -8,7 +8,7 @@ module.exports = {
 		'eslint:recommended',
 	],
 	rules: {
-		"no-mixed-spaces-and-tabs": ["warn","smart-tabls"]
+		"no-mixed-spaces-and-tabs": ["warn","smart-tabs"]
 	},
 	plugins: ['vue'],
 }
