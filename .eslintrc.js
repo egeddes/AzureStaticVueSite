@@ -6,8 +6,6 @@ module.exports = {
 	extends: [
 		'plugin:vue/vue3-strongly-recommended',
 		'eslint:recommended',
-		'prettier',
-		'prettier/vue',
 		'@vue/typescript',
 	],
 	plugins: ['vue'],
